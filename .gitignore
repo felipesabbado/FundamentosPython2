@@ -1,3 +1,7 @@
 .idea
 venv
 *.iml
+*.txt
+*.bin
+*.hist
+*.pyc
